@@ -31,8 +31,9 @@ body{
 
 input{
     width: 100%;
-    border: 1pxss;
+    border: 1px;
     padding: 24px;
     margin: 10px;
     background: transparent;
+    box-shadow: 5px 1px 25px ;
 }
