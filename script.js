@@ -1,6 +1,9 @@
 let input = document.getElementById('inputBox');
 let buttons = document.querySelectorAll('button');
 
+const screen = document.querySelector('.screen');
+
+
 let string = "";
 let arr = Array.from(buttons);
 arr.forEach(button => {
