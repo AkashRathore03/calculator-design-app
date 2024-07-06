@@ -68,11 +68,6 @@ input:hover{
 
 
 
-/* Smartphones (landscape) ----------- */
-@media only screen 
-and (min-width : 321px) {
-/* Styles */
-}
 
 /* Smartphones (portrait) ----------- */
 @media only screen 
@@ -80,3 +75,15 @@ and (max-width : 320px) {
 /* Styles */
 }
 
+
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1224px) {
+/* Styles */
+}
+
+/* Large screens ----------- */
+@media only screen 
+and (min-width : 1824px) {
+/* Styles */
+}
