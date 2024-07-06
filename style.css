@@ -59,6 +59,9 @@ button{
 
 }
 button:hover{
-    background: green;
+    background: lightskyblue;
 }
 
+input:hover{
+    background: lightgoldenrodyellow;
+}
