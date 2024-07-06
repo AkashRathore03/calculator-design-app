@@ -70,9 +70,15 @@ input:hover{
 
 
 @media only screen and (max-width : 720px) {
+    body{
+
+       margin: auto;
+    }
+
+   
     .calculator{
 
-        border: 1px solid gray;
+        border: -1px solid gray;
         padding: 25px;
         border-radius: 15px;
         background: transparent;
@@ -80,5 +86,13 @@ input:hover{
          
     }
 
-
+    button{
+        border: none;
+        width: 55px;
+        height: 55px;
+        margin: 10px;
+        border-radius: 70%;
+        
+    
+    }
 }
